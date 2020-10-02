@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Abel&family=Anton&display=swap");
+
+.black{
+    background-color: black;
+    
+}
+
+.grey{
+    background-color: rgb(22, 20, 20);
+}
+
+.form-control{
+    width:100% !important;
+}
+
+.btn1{
+    width:57%;
+    margin-left: 50px;
+}
+.imbd-nav{
+    width:100px;
+    height: 20px;
+    background-color: orange;
+    margin-left: 60px;
+    
+}
+.nav-search{
+    margin-left: 100px;
+}
+
+.after-nav{
+    background-image: url(../images/picture15.jpg);
+     background-size: cover;
+}
+
+.white{
+    color: white;
+}
+
+.pink{
+    color: rgb(223, 10, 45);
+}
+
+.imbd-marginleft{
+    margin-left: 15px;
+}
+
+.marginleft{
+    margin-left: 100px;
+}
+
+.tv{
+    font-size: 55px;
+}
+
+.imbd{
+    font-family: monospace;
+}
+
+.cont2{
+    background-image: url(../images/picture15.jpg);
+}
+
+.red{
+    color: crimson;
+}
